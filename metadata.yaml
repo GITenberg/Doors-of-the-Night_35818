@@ -1,0 +1,30 @@
+_repo: Doors-of-the-Night_35818
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35818-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Packard, Frank L. (Frank Lucius)
+    birthdate: 1877
+    deathdate: 1942
+    gutenberg_agent_id: '557'
+    url: http://www.gutenberg.org/2009/agents/557
+    wikipedia: http://en.wikipedia.org/wiki/Frank_L._Packard
+description: ''
+gutenberg_issued: '2011-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+title: Doors of the Night
+url: http://www.gutenberg.org/ebooks/35818
